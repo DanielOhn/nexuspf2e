@@ -1,0 +1,29 @@
+.navbar {
+  width: 20%;
+  height: 60vh;
+  margin: 0 auto;
+  margin-right: 16px;
+  margin-left: 16px;
+  margin-top: 16px;
+
+  padding: 0;
+
+  /* border: 4px dotted goldenrod; */
+  background-color: white;
+}
+
+.links {
+  list-style-type: none;
+  text-align: left;
+  padding: 0;
+  margin: 0;
+}
+
+.menu {
+  padding-left: 12px;
+  padding-top: 4px;
+}
+
+.submenu {
+  padding-left: 24px;
+}

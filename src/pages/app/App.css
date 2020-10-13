@@ -1,3 +1,14 @@
 .App {
   text-align: center;
 }
+
+.content {
+  display: flex;
+  flex-flow: nowrap row;
+  justify-content: space-evenly;
+}
+
+.posts {
+  width: 60%;
+  text-align: left;
+}
