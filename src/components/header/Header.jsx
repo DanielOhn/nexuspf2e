@@ -1,11 +1,14 @@
 import React from "react"
 
 import "./Header.css"
+import { Link } from "react-router-dom"
 
 const Header = () => {
   return (
     <div className="header">
-      <h1>World of Nexus</h1>
+      <h1>
+        <Link to="/">The World of Nexus</Link>
+      </h1>
     </div>
   )
 }

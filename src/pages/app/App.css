@@ -1,14 +1,10 @@
-.App {
-  text-align: center;
-}
-
-.content {
+.main {
   display: flex;
   flex-flow: nowrap row;
   justify-content: space-evenly;
 }
 
-.posts {
+.content {
   width: 60%;
   text-align: left;
 }

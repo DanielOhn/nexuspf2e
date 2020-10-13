@@ -3,6 +3,7 @@ import React from "react"
 import "./Navbar.css"
 
 import Social from "../social/Social"
+import { Link } from "react-router-dom"
 
 const Navbar = () => {
   return (
@@ -13,7 +14,9 @@ const Navbar = () => {
         <li className="submenu">Gods</li>
         <li className="submenu">Planes</li>
         <li className="submenu">Timeline</li>
-        <li className="menu">Character Creation</li>
+        <li className="menu">
+          <Link to="/character-creation">Character Creation</Link>
+        </li>
         <li className="submenu">Ancestory</li>
         <li className="submenu">Heritage</li>
         <li className="submenu">Background</li>
