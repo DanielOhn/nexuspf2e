@@ -1,0 +1,16 @@
+.header {
+  background-image: url("../../images/banner.PNG");
+  height: 20vh;
+  display: block;
+}
+
+.header h1 {
+  padding-top: 5%;
+  margin: auto;
+  text-align: center;
+  color: black;
+  font-size: 64px;
+
+  -webkit-text-stroke: 2px;
+  -webkit-text-fill-color: white;
+}
