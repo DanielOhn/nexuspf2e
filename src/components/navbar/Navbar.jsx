@@ -2,6 +2,8 @@ import React from "react"
 
 import "./Navbar.css"
 
+import Social from "../social/Social"
+
 const Navbar = () => {
   return (
     <div className="navbar">
@@ -24,6 +26,7 @@ const Navbar = () => {
         <li className="submenu">Homebrew</li>
         <li className="submenu">Death</li>
       </ul>
+      <Social />
     </div>
   )
 }
