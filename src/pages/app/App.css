@@ -8,10 +8,11 @@
 
 .content {
   width: 600px;
-  text-align: left;
 
-  height: 60vh;
+  text-align: left;
 
   margin: 0;
   margin-top: 16px;
+
+  background-color: white;
 }
