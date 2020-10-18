@@ -1,0 +1,65 @@
+.ancestories {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.ancestory-card {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: flex-end;
+
+  background-size: cover;
+  width: 200px;
+  height: 240px;
+
+  margin: 4px;
+  border: 1px solid lightblue;
+}
+
+.ancestory-card h3 {
+  margin: 0;
+  vertical-align: text-bottom;
+  text-align: center;
+
+  color: white;
+  background-color: lightblue;
+}
+
+.ancestory-card p {
+  padding: 0;
+  margin: 0;
+  color: white;
+}
+
+.ancestory-overlay {
+  left: 0;
+  right: 0;
+  background-color: lightblue;
+  overflow: hidden;
+  width: 100%;
+  height: 0;
+  transition: 0.5s ease;
+}
+
+.ancestory-card:hover .ancestory-overlay {
+  bottom: 0;
+  height: 100%;
+}
+
+.abilities {
+  margin-top: 24px;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+}
+
+.boost .green {
+  color: green;
+  text-decoration: underline;
+}
+
+.flaw .red {
+  color: red;
+  text-decoration: underline;
+}

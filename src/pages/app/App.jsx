@@ -8,6 +8,7 @@ import Landing from "../landing/Landing"
 
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom"
 import CharacaterCreation from "../character-creation/CharacterCreation"
+import Ancestory from "../character-creation/ancestory/Ancestory"
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
               exact
               render={() => <CharacaterCreation />}
             />
+            <Route path="/ancestory" exact render={() => <Ancestory />} />
           </Switch>
         </div>
       </div>

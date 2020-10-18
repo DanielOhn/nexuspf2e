@@ -1,0 +1,243 @@
+{
+  "date": "March 17, 2020",
+  "name": "Pathfinder 2.0 Ancestry feat list",
+  "Ancestries": [
+    {
+      "url": "https://2e.aonprd.com/Images/Ancestries/Dwarf01.png",
+      "pfsLegal": true,
+      "abilityBoosts": ["Constitution", "Wisdom", "Free"],
+      "name": "Dwarf",
+      "source": "Core Rulebook pg. 35",
+      "speed": "20 feet",
+      "hp": "10",
+      "abilityFlaws": ["Charisma"],
+      "languages": [
+        "Common",
+        "Dwarven",
+        "Additional languages equal to your Intelligence modifier (if it's positive). Choose from Gnomish, Goblin, Jotun, Orcish, Terran, Undercommon, and any other languages to which you have access (such as the languages prevalent in your region)."
+      ],
+      "other1": [
+        "Darkvision",
+        "You can see in darkness and dim light just as well as you can see in bright light, though your vision in darkness is in black and white."
+      ],
+      "other2": ["Clan Dagger", "You get one "],
+      "traits": ["Dwarf", "Humanoid"],
+      "size": "Medium"
+    },
+    {
+      "url": "http://2e.aonprd.com/Images/Ancestries/Elf02.png",
+      "pfsLegal": true,
+      "abilityBoosts": ["Dexterity", "Intelligence", "Free"],
+      "name": "Elf",
+      "source": "Core Rulebook pg. 39",
+      "speed": "30 feet",
+      "hp": "6",
+      "abilityFlaws": ["Constitution"],
+      "languages": [
+        "Common",
+        "Elven",
+        "Additional languages equal to your Intelligence modifier (if it's positive). Choose from Celestial, Draconic, Gnoll, Gnomish, Goblin, Orcish, Sylvan, and any other languages to which you have access (such as the languages prevalent in your region)."
+      ],
+      "other1": [
+        "Low-Light Vision",
+        "You can see in dim light as though it were bright light, and you ignore the concealed condition due to dim light.\r\n\r\n\t\t\t\t\t"
+      ],
+      "traits": ["Elf", "Humanoid"],
+      "size": "Medium"
+    },
+    {
+      "url": "https://2e.aonprd.com/Images/Ancestries/Gnome01.png",
+      "pfsLegal": true,
+      "abilityBoosts": ["Constitution", "Charisma", "Free"],
+      "name": "Gnome",
+      "source": "Core Rulebook pg. 43",
+      "speed": "25 feet",
+      "hp": "8",
+      "abilityFlaws": ["Strength"],
+      "languages": [
+        "Common",
+        "Gnomish",
+        "Sylvan",
+        "Additional languages equal to your Intelligence modifier (if it's positive). Choose from Draconic, Dwarven, Elven, Goblin, Jotun, Orcish, and any other languages to which you have access (such as the languages prevalent in your region)."
+      ],
+      "other1": [
+        "Low-Light Vision",
+        "You can see in dim light as though it were bright light, and you ignore the concealed condition due to dim light.\r\n\r\n\t\t\t\t\t"
+      ],
+      "traits": ["Gnome", "Humanoid"],
+      "size": "Small"
+    },
+    {
+      "url": "http://2e.aonprd.com/Images/Ancestries/Goblin02.png",
+      "pfsLegal": true,
+      "abilityBoosts": ["Dexterity", "Charisma", "Free"],
+      "name": "Goblin",
+      "source": "Core Rulebook pg. 47",
+      "speed": "25 feet",
+      "hp": "6",
+      "abilityFlaws": ["Wisdom"],
+      "languages": [
+        "Common",
+        "Goblin",
+        "Additional languages equal to your Intelligence modifier (if it's positive). Choose from Draconic, Dwarven, Gnoll, Gnomish, Halfling, Orcish, and any other languages to which you have access (such as the languages prevalent in your region)."
+      ],
+      "other1": [
+        "Darkvision",
+        "You can see in darkness and dim light just as well as you can see in bright light, though your vision in darkness is in black and white.\r\n\r\n\t\t\t\t\t"
+      ],
+      "traits": ["Goblin", "Humanoid"],
+      "size": "Small"
+    },
+    {
+      "url": "http://2e.aonprd.com/Images/Ancestries/HalfElf01.png",
+      "pfsLegal": true,
+      "name": "Half-Elf",
+      "traits": ["Elf", "Humanoid"],
+      "speed": "25 feet",
+      "hp": "8",
+      "languages": [
+        "Additional languages equal to your Intelligence modifier (if it's positive). Choose from the list of common languages and any other languages to which you have access (such as the languages prevalent in your region)."
+      ],
+      "source": "Core Rulebook pg. 55",
+      "other1": [
+        "Other Halves",
+        "By default, half-elves and half-orcs descend from humans, but your GM might allow you to be the offspring of an elf, orc, or different ancestry. In these cases, the GM will let you select the half-elf or half-orc heritage as the heritage for this other ancestry. The most likely other parent of a half-elf are gnomes and halflings, and the most likely parents of a half-orc are goblins, halflings, and dwarves."
+      ],
+      "other2": [
+        "Low-Light Vision",
+        "You can see in dim light as though it were bright light, and you ignore the concealed condition due to dim light.\r\n\r\n\t\t\t\t\t"
+      ],
+      "abilityBoosts": ["Two free ability boosts"],
+      "size": "Medium"
+    },
+    {
+      "url": "http://2e.aonprd.com/Images/Ancestries/Halfling01.png",
+      "pfsLegal": true,
+      "abilityBoosts": ["Dexterity", "Wisdom", "Free"],
+      "name": "Halfling",
+      "source": "Core Rulebook pg. 51",
+      "speed": "25 feet",
+      "hp": "6",
+      "abilityFlaws": ["Strength"],
+      "languages": [
+        "Common",
+        "Halfling",
+        "Additional languages equal to your Intelligence modifier (if it's positive). Choose from Dwarven, Elven, Gnomish, Goblin, and any other languages to which you have access (such as the languages prevalent in your region)."
+      ],
+      "other1": [
+        "Keen Eyes",
+        "Your eyes are sharp, allowing you to make out small details about concealed or even invisible creatures that others might miss. You gain a +2 circumstance bonus when using the Seek action to find hidden or undetected creatures within 30 feet of you. When you target an opponent that is concealed from you or hidden from you, reduce the DC of the flat check to 3 for a concealed target or 9 for a hidden one.\r\n\r\n\t\t\t\t\t"
+      ],
+      "traits": ["Halfling", "Humanoid"],
+      "size": "Small"
+    },
+    {
+      "url": "http://2e.aonprd.com/Images/Ancestries/HalfOrc01.png",
+      "pfsLegal": true,
+      "name": "Half-Orc",
+      "traits": ["Humanoid", "Orc"],
+      "speed": "25 feet",
+      "hp": "8",
+      "languages": [
+        "Additional languages equal to your Intelligence modifier (if it's positive). Choose from the list of common languages and any other languages to which you have access (such as the languages prevalent in your region)."
+      ],
+      "source": "Core Rulebook pg. 55",
+      "other1": [
+        "Low-Light Vision",
+        "You can see in dim light as though it were bright light, and you ignore the concealed condition due to dim light."
+      ],
+      "other2": [
+        "Other Halves",
+        "By default, half-elves and half-orcs descend from humans, but your GM might allow you to be the offspring of an elf, orc, or different ancestry. In these cases, the GM will let you select the half-elf or half-orc heritage as the heritage for this other ancestry. The most likely other parent of a half-elf are gnomes and halflings, and the most likely parents of a half-orc are goblins, halflings, and dwarves.\r\n\r\n\t\t\t\t\t"
+      ],
+      "abilityBoosts": ["Two free ability boosts"],
+      "size": "Medium"
+    },
+    {
+      "url": "http://2e.aonprd.com/Images/Ancestries/Human01.png",
+      "pfsLegal": true,
+      "abilityBoosts": ["Two free ability boosts"],
+      "name": "Human",
+      "source": "Core Rulebook pg. 55",
+      "speed": "25 feet",
+      "hp": "8",
+      "languages": [
+        "Common",
+        "Additional languages equal to 1 + your Intelligence modifier (if it's positive). Choose from the list of common languages and any other languages to which you have access (such as the languages prevalent in your region).\r\n\r\n\t\t\t\t\t"
+      ],
+      "traits": ["Human", "Humanoid"],
+      "size": "Medium"
+    },
+    {
+      "url": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/389/1000/1000/636252781431932597.jpeg",
+      "pfsLegal": true,
+      "abilityBoosts": ["Constitution", "Intelligence", "Free"],
+      "name": "Hobgoblin",
+      "source": "Character Guide pg. 49",
+      "speed": "25 feet",
+      "hp": "8",
+      "abilityFlaws": ["Wisdom"],
+      "languages": [
+        "Common",
+        "Goblin",
+        "Additional languages equal to your Intelligence modifier (if it's positive). Choose from Draconic, Dwarven, Gnoll, Jotun, Halfling, Orcish, and any other languages to which you have access (such as the languages prevalent in your region)."
+      ],
+      "other1": [
+        "Darkvision",
+        "You can see in darkness and dim light just as well as you can see in bright light, though your vision in darkness is in black and white.\r\n\r\n\t\t\t\t\t"
+      ],
+      "traits": ["Uncommon", "Goblin", "Humanoid"],
+      "size": "Medium"
+    },
+    {
+      "url": "https://2e.aonprd.com/Images/Monsters/Leshy_LeafLeshy.png",
+      "pfsLegal": true,
+      "abilityBoosts": ["Constitution", "Wisdom", "Free"],
+      "name": "Leshy",
+      "source": "Character Guide pg. 53",
+      "speed": "25 feet",
+      "hp": "8",
+      "abilityFlaws": ["Intelligence"],
+      "languages": [
+        "Common",
+        "Sylvan",
+        "Additional languages equal to your Intelligence modifier (if it's positive). Choose from Draconic, Elven, Gnomish, Goblin, Halfling, Undercommon, and any other languages to which you have access (such as the languages prevalent in your region)."
+      ],
+      "other1": [
+        "Low-Light Vision",
+        "You can see in dim light as though it were bright light, and you ignore the concealed condition due to dim light."
+      ],
+      "other2": [
+        "Plant Nourishment",
+        "You gain nourishment in the same way that the plants or fungi that match your body type normally do, through some combination of photosynthesis, absorbing minerals with your roots, or scavenging decaying matter. You typically do not need to pay for food. If you normally rely on photosynthesis and go without sunlight for 1 week, you begin to starve. You can derive nourishment from specially formulated bottles of sunlight instead of natural sunlight, but these bottles cost 10 times as much as standard rations (or 40 sp).\r\n\r\n\t\t\t\t\t"
+      ],
+      "traits": ["Uncommon", "Leshy", "Plant"],
+      "size": "Small"
+    },
+    {
+      "url": "https://2e.aonprd.com/Images/Monsters/Lizardfolk_LizardfolkScout.png",
+      "pfsLegal": true,
+      "abilityBoosts": ["Strength", "Wisdom", "Free"],
+      "name": "Lizardfolk",
+      "source": "Character Guide pg. 57",
+      "speed": "25 feet",
+      "hp": "8",
+      "abilityFlaws": ["Intelligence"],
+      "languages": [
+        "Common",
+        "Iruxi",
+        "Additional languages equal to your Intelligence modifier (if it's positive). Choose from Aquan, Boggard, Draconic, Elven, Jotun, Sylvan, and any other languages to which you have access (such as the languages prevalent in your region)."
+      ],
+      "other1": [
+        "Claws",
+        "Your sharp claws offer an alternative to the fists other humanoids bring to a fight. You have a claw unarmed attack that deals 1d4 slashing damage and has the agile and finesse traits."
+      ],
+      "other2": [
+        "Aquatic Adaptation",
+        "Your reptilian biology allows you to hold your breath for a long time. You gain the Breath Control general feat as a bonus feat.\r\n\r\n\t\t\t\t\t"
+      ],
+      "traits": ["Uncommon", "Humanoid", "Lizardfolk"],
+      "size": "Medium"
+    }
+  ]
+}

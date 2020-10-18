@@ -17,7 +17,9 @@ const Navbar = () => {
         <li className="menu">
           <Link to="/character-creation">Character Creation</Link>
         </li>
-        <li className="submenu">Ancestory</li>
+        <li className="submenu">
+          <Link to="/ancestory">Ancestory </Link>
+        </li>
         <li className="submenu">Heritage</li>
         <li className="submenu">Background</li>
         <li className="submenu">Class</li>

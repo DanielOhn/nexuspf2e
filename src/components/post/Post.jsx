@@ -9,9 +9,7 @@ const Post = (props) => {
         <h2>{props.title}</h2>
         <small>{props.date}</small>
       </div>
-      <div className="text">
-        <p>{props.children}</p>
-      </div>
+      <div className="text">{props.children}</div>
     </div>
   )
 }
