@@ -1,0 +1,19 @@
+.heading {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+}
+
+.heading h2 {
+  padding: 0;
+  margin: 8px;
+}
+
+.heading small {
+  margin: 8px;
+}
+
+.text p {
+  padding: 8px;
+  margin: 2px;
+}
