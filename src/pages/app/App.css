@@ -1,10 +1,17 @@
 .main {
   display: flex;
   flex-flow: nowrap row;
-  justify-content: space-evenly;
+  justify-content: center;
+
+  margin: 0 auto;
 }
 
 .content {
-  width: 60%;
+  width: 600px;
   text-align: left;
+
+  height: 60vh;
+
+  margin: 0;
+  margin-top: 16px;
 }
