@@ -238,7 +238,7 @@
       "size": "Medium"
     },
     {
-      "url": "https://2e.aonprd.com/Images/Ancestries/Kobold02.png",
+      "url": "https://2e.aonprd.com/Images/Ancestries/Kobold01.png",
       "pfsLegal": true,
       "abilityBoosts": ["Dexterity", "Charisma", "Free"],
       "name": "Kobold",
@@ -265,7 +265,7 @@
       "size": "Small"
     },
     {
-      "url": "https://2e.aonprd.com/Images/Ancestries/Orc01.png",
+      "url": "https://2e.aonprd.com/Images/Ancestries/Orc02.png",
       "pfsLegal": true,
       "abilityBoosts": ["Strength", "Free"],
       "name": "Orc",
