@@ -30,13 +30,15 @@ const Ancestory = () => {
                         return <p>{ability}</p>
                       })}
                     </div>
-                    <div className="flaw">
-                      <p className="red">Ability Flaw</p>
-                      {race.abilityFlaws &&
-                        race.abilityFlaws.map((ability, j) => {
+                    {race.abilityFlaws && (
+                      <div className="flaw">
+                        <p className="red">Ability Flaw</p>
+
+                        {race.abilityFlaws.map((ability, j) => {
                           return <p>{ability}</p>
                         })}
-                    </div>
+                      </div>
+                    )}
                   </div>
                 </div>
               </div>
